@@ -61,6 +61,8 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarioSuarezL) -->
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=DarioSuarezL&theme=highcontrast&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="100%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarioSuarezL" alt="Top Langs" width="100%">
-<img src="https://github-readme-stats.vercel.app/api?username=DarioSuarezL&show_icons=true&theme=highcontrast" alt="GitHub's GitHub stats" width="100%">
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=DarioSuarezL&theme=highcontrast&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="55%">
+    <img src="https://github-readme-stats.vercel.app/api?username=DarioSuarezL&show_icons=true&theme=highcontrast" alt="GitHub's GitHub stats" width="55%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarioSuarezL" alt="Top Langs" width="55%">
+</div>
