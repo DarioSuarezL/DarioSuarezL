@@ -5,7 +5,7 @@
     <h3>
     I am a <b>Systems Engineering student 💻</b> at UAGRM (Universidad Autónoma Gabriel Rene Moreno), I plan to specialize in the area of Big Data, but I am currently learning web development, you are welcome to see my repositories and reuse code, in case you find it useful.
     </h3>
-    <iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
+    <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 </div>
 
 
