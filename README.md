@@ -37,7 +37,7 @@
 ---
 
 <div align="left">
-    <h2>🛠 Languages:</h2>
+    <h2>🛠 Languages and tools:</h2>
     <br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" heignt="60"/>&nbsp
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="60" heignt="60"/>&nbsp
