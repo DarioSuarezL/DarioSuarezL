@@ -9,9 +9,7 @@
     <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 </div>
 
-
----
-
+<br>
 
 <div id='badge'>
     <h2 align='center'>
@@ -34,7 +32,7 @@
     </ul>
 </div>
 
----
+<br>
 
 <div align="left">
     <h2>🛠 Languages and tools:</h2>
@@ -50,7 +48,8 @@
         <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg/1200px-Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg.png" title="Pascal/Delphi" alt="Pascal/Delphi" width="60" heignt="60"/>&nbsp
 </div>
 
----
+<br>
+
 ## 📈 My Stats:
 <br>
 
