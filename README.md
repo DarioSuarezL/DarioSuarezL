@@ -36,7 +36,7 @@
     <h1>🛠 Languages:</h1>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" heignt="60"/>&nbsp
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="60" heignt="60"/>&nbsp
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server" alt="SQL Server" width="60" heignt="60"/>&nbsp
+        <img src="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png" title="SQL Server" alt="SQL Server" width="60" heignt="60"/>&nbsp
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" heignt="60"/>&nbsp
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Nodejs" alt="Nodejs" width="60" heignt="60"/>&nbsp
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="60" heignt="60"/>&nbsp
