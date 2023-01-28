@@ -5,6 +5,7 @@
     <h3>
     I am a <b>Systems Engineering student 💻</b> at UAGRM (Universidad Autónoma Gabriel Rene Moreno), I plan to specialize in the area of Big Data, but I am currently learning web development, you are welcome to see my repositories and reuse code, in case you find it useful.
     </h3>
+    <br>
     <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 </div>
 
@@ -32,8 +33,12 @@
         </li>
     </ul>
 </div>
+
+---
+
 <div align="left">
-    <h1>🛠 Languages:</h1>
+    <h2>🛠 Languages:</h2>
+    <br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" heignt="60"/>&nbsp
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="60" heignt="60"/>&nbsp
         <img src="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png" title="SQL Server" alt="SQL Server" width="60" heignt="60"/>&nbsp
@@ -45,19 +50,20 @@
         <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg/1200px-Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg.png" title="Pascal/Delphi" alt="Pascal/Delphi" width="60" heignt="60"/>&nbsp
 </div>
 
-<!-- ### Hi there 👋 -->
+---
+## 📈 My Stats:
+<br>
 
-<!--
-**DarioSuarezL/DarioSuarezL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ![GitHub's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarioSuarezL&show_icons=true&theme=highcontrast) -->
 
-Here are some ideas to get you started:
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DarioSuarezL&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D) -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarioSuarezL) -->
+<center>
+<img src="https://github-readme-stats.vercel.app/api?username=DarioSuarezL&show_icons=true&theme=highcontrast" alt="GitHub's GitHub stats">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=DarioSuarezL&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
+</center>
+
+<center>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarioSuarezL" alt="Top Langs">
+</center>
