@@ -18,12 +18,6 @@
     <br>
     <ul>
         <li>
-            <a href="https://twitter.com/LazarteSuarez" target="_blank">
-            <img src="https://img.shields.io/twitter/follow/LazarteSuarez?style=social"
-            alt="Twitter Badge">
-            </a>
-        </li>
-        <li>
             <p>✔ I'm usually on <a href="https://www.facebook.com/dario.suarezlazarte/" target="_blank">Facebook</a></p>
         </li>
         <li>
