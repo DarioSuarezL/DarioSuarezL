@@ -3,7 +3,7 @@
     Hey there👋, I'm Darío
     </h1>
     <h3>
-    I am a <b>Systems Engineering student 💻</b> at UAGRM (Universidad Autónoma Gabriel Rene Moreno), I plan to specialize in the area of Big Data, but I am currently learning web development, you are welcome to see my repositories and reuse code, in case you find it useful.
+    I am a <b>Systems Engineering 💻</b> I plan to specialize in the area of Big Data, but I am currently learning web development, you are welcome to see my repositories and reuse code, in case you find it useful.
     </h3>
     <br>
     <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
